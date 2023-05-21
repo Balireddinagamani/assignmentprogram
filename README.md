@@ -1,0 +1,2 @@
+# assignmentprogram
+Scanner class
